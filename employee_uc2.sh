@@ -18,5 +18,6 @@ echo "employee is present";
 workingHour=8;
 ;;
 esac 
+salary 
  
  
